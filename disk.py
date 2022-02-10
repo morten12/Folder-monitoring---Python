@@ -31,4 +31,3 @@ def folder_struct(dossier):
             print('{}{}'.format(subindent, f))
 
 
-print(folder_struct("D:\\Web\\stock-api\\storage\\framework")) 
